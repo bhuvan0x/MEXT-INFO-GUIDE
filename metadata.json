@@ -1,0 +1,6 @@
+{
+  "name": "MEXT to UTokyo - CS Roadmap",
+  "description": "Comprehensive engineering roadmap for students targeting Computer Science at the University of Tokyo via the MEXT Scholarship.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
