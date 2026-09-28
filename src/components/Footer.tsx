@@ -11,14 +11,14 @@ export const Footer: React.FC = () => {
       <div className="max-w-[1200px] mx-auto px-4 lg:px-8 flex flex-col md:flex-row items-center justify-between gap-6 text-center md:text-left">
         <div className="flex flex-col gap-1">
           <p className="font-['Inter'] text-xs sm:text-sm text-[#94A3B8]">
-            Bhuvan Jatav — Sakuta Fx |{' '}
+            Bhuvan — Sakuta Fx |{' '}
             <a
-              href="https://bhuvanlabs.xyz"
+              href="https://github.com/bhuvan0x"
               target="_blank"
               rel="noopener noreferrer"
               className="text-[#7bd0ff] hover:text-white transition-colors font-mono inline-flex items-center gap-1"
             >
-              bhuvanlabs.xyz
+              github.com/bhuvan0x
               <ExternalLink className="w-3 h-3 text-cyan-400" />
             </a>
           </p>

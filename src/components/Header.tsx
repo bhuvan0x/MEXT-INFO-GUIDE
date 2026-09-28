@@ -104,13 +104,13 @@ export const Header: React.FC<HeaderProps> = ({ completedCount, totalCount, onOp
 
           {/* External Author Link */}
           <a
-            href="https://bhuvanlabs.xyz"
+            href="https://github.com/bhuvan0x"
             target="_blank"
             rel="noopener noreferrer"
             className="hidden lg:inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-[#262a37] text-cyan-300 font-['Space_Grotesk'] text-[11px] font-bold uppercase tracking-wider hover:bg-[#313442] hover:text-white transition-all shadow-sm"
           >
             <span className="w-1.5 h-1.5 rounded-full bg-cyan-400 animate-pulse"></span>
-            bhuvanlabs.xyz
+            github.com/bhuvan0x
             <ExternalLink className="w-3 h-3 text-cyan-400/80" />
           </a>
 
@@ -180,12 +180,12 @@ export const Header: React.FC<HeaderProps> = ({ completedCount, totalCount, onOp
           </a>
           <div className="pt-2 border-t border-white/10 flex items-center justify-between">
             <a
-              href="https://bhuvanlabs.xyz"
+              href="https://github.com/bhuvan0x"
               target="_blank"
               rel="noopener noreferrer"
               className="text-xs text-cyan-400 flex items-center gap-1 font-['Space_Grotesk']"
             >
-              Curated by bhuvanlabs.xyz <ExternalLink className="w-3 h-3" />
+              Curated by github.com/bhuvan0x <ExternalLink className="w-3 h-3" />
             </a>
           </div>
         </div>
